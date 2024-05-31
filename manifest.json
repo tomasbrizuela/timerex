@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Timerex",
+    "version": "1.0.0",
+    
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "https://dolarapi.com/v1/dolares/blue",
+        "https://dolarapi.com/v1/dolares/cripto"
+    ]
+}
